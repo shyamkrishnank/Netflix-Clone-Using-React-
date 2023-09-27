@@ -1,0 +1,17 @@
+.footer {
+    background-color: #000000; /* Background color for the footer */
+    color: #fff; /* Text color */
+    padding: 20px; /* Add some space inside the footer */
+    text-align: center; /* Center-align the text */
+    height: 250px;
+}
+
+/* Style for the columns inside the footer */
+.footer-column {
+    display: inline-block; /* Display columns in a horizontal line */
+    width: 20%; /* Adjust the width as needed */
+    padding: 10px; /* Add spacing around each column */
+}
+.innertext{
+    margin-bottom:20px;
+}
